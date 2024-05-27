@@ -23,6 +23,7 @@
   },
   "devDependencies": {
     "@nuxtbase/auth-ui-vue": "^0.3.7",
+    "@nuxtjs/supabase": "^1.2.2",
     "@nuxtjs/tailwindcss": "^6.12.0",
     "@supabase/auth-ui-shared": "^0.1.8",
     "@supabase/supabase-js": "^2.43.4",

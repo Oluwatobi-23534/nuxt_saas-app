@@ -1,8 +1,9 @@
-<script setup lang="ts">
 
-
-</script>
 
 <template>
-  <Button>Button</Button>
+  <div>
+    <NuxtLayout>
+      <NuxtPage />
+    </NuxtLayout>
+  </div>
 </template>
