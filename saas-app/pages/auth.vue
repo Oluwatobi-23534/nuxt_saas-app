@@ -27,6 +27,6 @@ import { Auth } from "@nuxtbase/auth-ui-vue";
 
 const supabaseClient = useSupabaseClient();
 definePageMeta({
-  layouts: "Home",
+  layout: "home",
 });
 </script>
